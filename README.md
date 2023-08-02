@@ -2,13 +2,14 @@
 
 I'm Miłosz, currently pursuing my second year of studies at [Wrocław University of Science and Technology](https://pwr.edu.pl/en/). A few years ago, I stumbled upon the world of programming and was instantly captivated by its potential to breathe life into ideas with just a few lines of code.
 
-My coding journey commenced with C++ and Python during my university coursework. The thrill of crafting something from nothing was exhilarating, sparking a passion for programming that has only grown since. This initial fascination prompted me to delve deeper into the realm of technology, leading me to discover Django.
+My coding journey commenced with C++ and Python during my university coursework. This initial fascination prompted me to delve deeper into the realm of technology, leading me to discover Django.
 
 At present, I'm engrossed in working on personal projects, striving to apply and learn new technologies such as Docker. I'm also intrigued by the field of machine learning and have been investing time in constructing simple models, as I find the potential of machine learning to be profoundly fascinating.
 
-When I'm not immersed in code, I can be found scaling climbing walls, exploring new places, or engrossed in the latest cinema offerings. I firmly believe in maintaining a healthy work-life balance, and these activities help me stay refreshed and inspired.
-
 As I continue my academic journey, I'm actively seeking internship opportunities that will allow me to tackle real-world problems and apply my skills in a practical setting. I'm eager to learn, ready to overcome challenges, and excited to embark on new adventures in the tech industry.
+
+When I'm not immersed in code, I can be found scaling climbing walls, exploring new places, or engrossed in the latest cinema offerings.
+
 
 ![visitor badge](https://komarev.com/ghpvc/?username=Milosz-cat&label=Visits&color=green)
 [![email badge](https://img.shields.io/badge/miloszbochenek20@gmail.com-red?style=flat&logo=gmail&logoColor=white&labelColor=red)](mailto:miloszbochenek20@gmail.com)
