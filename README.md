@@ -8,7 +8,7 @@ At present, I'm engrossed in working on personal projects, striving to apply and
 
 As I continue my academic journey, I'm actively seeking internship opportunities that will allow me to tackle real-world problems and apply my skills in a practical setting. I'm eager to learn, ready to overcome challenges, and excited to embark on new adventures in the tech industry.
 
-When I'm not immersed in code, I can be found scaling climbing walls, exploring new places, or engrossed in the latest cinema offerings.
+When I'm not immersed in code, I can be found scaling climbing walls, exploring new places or watching the latest movies in cinema.
 
 
 ![visitor badge](https://komarev.com/ghpvc/?username=Milosz-cat&label=Visits&color=green)
