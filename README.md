@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Miłosz, currently pursuing my second year of studies at [Wrocław University of Science and Technology](https://pwr.edu.pl/en/). A few years ago, I stumbled upon the world of programming and was instantly captivated by its potential to breathe life into ideas with just a few lines of code.
+I'm Miłosz, currently pursuing my third year of studies at [Wrocław University of Science and Technology](https://pwr.edu.pl/en/). A few years ago, I stumbled upon the world of programming and was instantly captivated by its potential to breathe life into ideas with just a few lines of code.
 
 My coding journey commenced with C++ and Python during my university coursework. This initial fascination prompted me to delve deeper into the realm of technology, leading me to discover Django.
 
