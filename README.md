@@ -11,7 +11,6 @@ As I continue my academic journey, I'm actively seeking internship opportunities
 When I'm not immersed in code, I can be found scaling climbing walls, exploring new places or watching the latest movies in cinema.
 
 
-![visitor badge](https://komarev.com/ghpvc/?username=Milosz-cat&label=Visits&color=green)
 [![email badge](https://img.shields.io/badge/miloszbochenek20@gmail.com-red?style=flat&logo=gmail&logoColor=white&labelColor=red)](mailto:miloszbochenek20@gmail.com)
 
 
