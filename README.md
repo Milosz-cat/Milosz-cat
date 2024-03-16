@@ -1,14 +1,16 @@
 ### Hi there 👋
 
-I'm Miłosz, currently pursuing my third year of studies at [Wrocław University of Science and Technology](https://pwr.edu.pl/en/). A few years ago, I stumbled upon the world of programming and was instantly captivated by its potential to breathe life into ideas with just a few lines of code.
+Hello there! I'm Miłosz, a third-year student at Wrocław University of Science and Technology. My programming journey began a few years ago with C++ and Python during my university courses. This initial spark of interest quickly grew into a passion for technology, leading me to explore further into the world of web development with Django.
 
-My coding journey commenced with C++ and Python during my university coursework. This initial fascination prompted me to delve deeper into the realm of technology, leading me to discover Django.
+Throughout my exploration, Django has become the cornerstone of most of my projects. Beyond web development, I've leveraged tools like Docker and monitoring solutions to improve project efficiency and reliability.
 
-At present, I'm engrossed in working on personal projects, striving to apply and learn new technologies such as Docker. I'm also intrigued by the field of machine learning and have been investing time in constructing simple models, as I find the potential of machine learning to be profoundly fascinating.
+Recently, my focus has shifted towards the operational side of development, where I'm engrossed in learning and applying principles of DevOps and CI/CD technologies. I believe that understanding these practices is crucial for automating and optimizing the software development process, ensuring more efficient and reliable builds, tests, and deployments.
 
-As I continue my academic journey, I'm actively seeking internship opportunities that will allow me to tackle real-world problems and apply my skills in a practical setting. I'm eager to learn, ready to overcome challenges, and excited to embark on new adventures in the tech industry.
+I'm currently on a learning path towards mastering Azure, particularly with an aim to better understand Kubernetes. This knowledge is aimed at further enhancing my ability to deploy, manage, and scale containerized applications efficiently.
 
 When I'm not immersed in code, I can be found scaling climbing walls, exploring new places or watching the latest movies in cinema.
+
+I'm excited about the journey ahead and the opportunity to continuously learn, grow, and make a positive impact through technology.
 
 
 [![email badge](https://img.shields.io/badge/miloszbochenek20@gmail.com-red?style=flat&logo=gmail&logoColor=white&labelColor=red)](mailto:miloszbochenek20@gmail.com)
@@ -18,10 +20,11 @@ When I'm not immersed in code, I can be found scaling climbing walls, exploring 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+
 
  
 </div>
@@ -29,36 +32,38 @@ When I'm not immersed in code, I can be found scaling climbing walls, exploring 
 <div align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="40" alt="azure  devops logo" />
+  <img width="12" />
+  
+<!--
+## In work I use
+<div>
+  <img src="https://github.com/Milosz-cat/Milosz-cat/assets/93057795/47571e63-abce-4dde-89a6-72f9404f55eb" height="40" alt="Artifactory JFrog logo" />
+  <img width="12" />
+  <img src="https://github.com/Milosz-cat/Milosz-cat/assets/93057795/bee02f30-f140-438c-b980-7f3edb6d8d8d" height="40" alt="Harbor logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="Postman logo" />
+  <img width="12" />
+  <img src="https://github.com/Milosz-cat/Milosz-cat/assets/93057795/2ec47531-f13d-4721-86ee-6ffbf9bb0fe2" height="40" alt="Servicenow logo" />
 </div>
-
-
-
+-->
+  
 ## I'd like to learn
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo"  />
   <img width="12" />
 </div>
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milosz-cat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
