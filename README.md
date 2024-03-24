@@ -12,24 +12,18 @@ When I'm not immersed in code, I can be found scaling climbing walls, exploring 
 
 I'm excited about the journey ahead and the opportunity to continuously learn, grow, and make a positive impact through technology.
 
-
-[![email badge](https://img.shields.io/badge/miloszbochenek20@gmail.com-red?style=flat&logo=gmail&logoColor=white&labelColor=red)](mailto:miloszbochenek20@gmail.com)
-
-
 <h2 align="left">I code with</h2>
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
-
-
- 
 </div>
+
 <h2 align="left">Technologies</h2>
-<div align="left">
+<div align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -40,10 +34,11 @@ I'm excited about the journey ahead and the opportunity to continuously learn, g
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="40" alt="azure  devops logo" />
   <img width="12" />
-  
+</div>
+
 <!--
 ## In work I use
-<div>
+<div align="center">
   <img src="https://github.com/Milosz-cat/Milosz-cat/assets/93057795/47571e63-abce-4dde-89a6-72f9404f55eb" height="40" alt="Artifactory JFrog logo" />
   <img width="12" />
   <img src="https://github.com/Milosz-cat/Milosz-cat/assets/93057795/bee02f30-f140-438c-b980-7f3edb6d8d8d" height="40" alt="Harbor logo" />
@@ -57,7 +52,7 @@ I'm excited about the journey ahead and the opportunity to continuously learn, g
 -->
   
 ## I'd like to learn
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
@@ -69,6 +64,4 @@ I'm excited about the journey ahead and the opportunity to continuously learn, g
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo"  />
-  <img width="12" />
-
 </div>
