@@ -12,15 +12,6 @@ To further integrate security into automation, I started studying cybersecurity.
 
 When I'm not immersed in code, I can be found running 🏃‍♂️, exploring new places 🌍✈️, or watching the latest movies in the cinema 🎬. 
 
----
-
-### 🛠️ Technologies & Tools:
-- **Programming Languages:** Python, C++, JavaScript
-- **Frameworks & Platforms:** Django, Kubernetes
-- **DevOps & Automation:** Azure DevOps, Terraform, Ansible, Docker
-- **Security Tools:** Trivy, Checkov, Kubeaudit
-- **Interests:** Cybersecurity, CI/CD, Infrastructure as Code (IaC)
-
 
 <h2 align="left">I code with</h2>
 <div align="center">
