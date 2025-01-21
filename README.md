@@ -10,7 +10,7 @@ I wrote my bachelor's thesis on **"Automating Testing and Validation of Configur
 
 To further integrate security into automation, I started studying cybersecurity. This allows me to ensure that while focusing on automation, I never lose sight of the importance of security in protecting systems and infrastructure. 🛡️✨
 
-When I'm not immersed in code, I can be found running 🏃‍♂️, exploring new places 🌍✈️, or watching the latest movies in the cinema 🎬. 
+When I'm not immersed in code, I can be found running 🏃‍♂️, exploring new places ✈️, or watching the latest movies in the cinema 🎬. 
 
 
 <h2 align="left">I code with</h2>
