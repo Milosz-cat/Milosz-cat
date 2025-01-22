@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello there👋
 
-Hello there! I'm Miłosz, a master's student in Cybersecurity at Wrocław University of Science and Technology. My programming journey began a few years ago with C++ and Python during my undergraduate studies. This initial spark of interest quickly grew into a passion for technology, leading me to explore further into the world of web development with Django. 🎓🖥️
+I'm Miłosz, a master's student in Cybersecurity at Wrocław University of Science and Technology. My programming journey began a few years ago with C++ and Python during my undergraduate studies. This initial spark of interest quickly grew into a passion for technology, leading me to explore further into the world of web development with Django. 🎓🖥️
 
 Throughout my exploration, Django became the cornerstone of most of my projects. Beyond web development, I've leveraged tools like Docker and monitoring solutions to improve project efficiency and reliability. 🐳📈
 
